@@ -1,7 +1,7 @@
 Hi there.
 I'm Bartek and I specialize in JVM languages, mainly **Scala** and **Kotlin**. 
 
-I am the author of the [blog](https://halotukozak.github.io). 
+I run a [blog](https://halotukozak.github.io) and like to contribute to the [scala 3 repo](https://github.com/scala/scala3/pulls?q=is%3Apr+author%3Ahalotukozak+)
 
 You can check out the libraries I've made:
 - [M&DE](https://github.com/halotukozak/made) - Mirror Annotations & Default Extraction. A Scala 3 macro library that extends `scala.deriving.Mirror` with annotation metadata, default values, generated members, and transparent wrapper support.
